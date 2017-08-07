@@ -1,5 +1,5 @@
 # College_website
-It is a multi feature college website where a students get to know what is happening in the college such as events,
+It is a multi feature college website where students get to know what is happening in the college such as events,
 workshops, guest lectures by experts and elections for various committees etc. </br>
 
 Some features of the website are:</br>
